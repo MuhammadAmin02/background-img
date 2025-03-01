@@ -1,0 +1,120 @@
+header div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 500px;
+
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height: 82px;
+    width: 1520px;
+}
+
+header p {
+    color: white;
+
+}
+
+
+
+header button {
+    width: 192px;
+    height: 82px;
+    background-color: #F1A900;
+    margin-right: 49px;
+}
+
+.ikki {
+    margin-left: 10px;
+}
+
+main .box1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #222222;
+    height: 44px;
+    color: white;
+}
+
+
+.box {
+   
+    height: 500px;
+    background-image: url(./image\ 5.png);
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.olp{
+     display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    gap: 30px;
+}
+
+.qw {
+    width: 235px;
+    background-color: #F1A900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 235px;
+    height: 73px;
+    font-size: xx-large;
+}
+
+.er {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 235px;
+    background-color:black;
+    color: white;
+    align-items: center; 
+    width: 235px;
+    height: 73px;
+    font-size: xx-large;
+}
+ .cer{
+  background-color: #F1A900;
+  width: 900px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+  opacity: 0.5;
+} 
+footer img{
+    margin-left: 10px;
+    height: 46px;
+    width: 56px;
+}
+footer{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    height: 101px;
+    
+}
+.fakt{
+    width: 500px;
+    display: flex;
+    justify-content:space-around;
+    margin-left: 1200px;
+}
+.fakt img{
+    height: 24px;
+    width: 24px;
+}
+
